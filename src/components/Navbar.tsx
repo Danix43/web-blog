@@ -6,7 +6,7 @@ export default function Navbar() {
                     className="max-w-[105rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between"
                     aria-label="Global"
                 >
-                    <a className="flex-none text-xl font-semibold text-black" href="#">
+                    <a className="flex-none text-xl font-semibold text-black" href="/">
                         Blogify
                     </a>
                     <div className="flex flex-row items-center gap-5 mt-5 sm:justify-end sm:mt-0 sm:pl-5">
